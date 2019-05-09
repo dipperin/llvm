@@ -1,0 +1,3 @@
+[submodule "tools/dipc-clang"]
+	path = tools/dipc-clang
+	url = git@github.com:dipperin/clang.git
