@@ -1,0 +1,3 @@
+[submodule "tools/lld"]
+	path = tools/lld
+	url = git@github.com:dipperin/lld.git
