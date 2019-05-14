@@ -1,3 +1,6 @@
 [submodule "tools/lld"]
 	path = tools/lld
 	url = git@github.com:dipperin/lld.git
+[submodule "tools/clang"]
+	path = tools/clang
+	url = git@github.com:dipperin/clang.git
